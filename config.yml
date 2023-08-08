@@ -1,0 +1,9 @@
+clientOpts:
+  host: 127.0.0.1
+  # password: Pjr6SgLVAnzvDwAnS9yt
+dataDir:
+  key: _data/key
+  channel: _data/channel
+pattern:
+  key: '*'
+  channel: '*'
